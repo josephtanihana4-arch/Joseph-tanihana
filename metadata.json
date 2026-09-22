@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aetheris Web3 Staking \u0026 APY Planner",
+  "description": "An interactive high-yield Web3 staking simulator and profit planner featuring real-time yield accrual, dynamic daily APY modeling, and target profit goal tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
